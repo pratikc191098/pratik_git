@@ -33,10 +33,14 @@ git remote add origin https://github.com/pratikc191098/<name of the new repo>   
 
 git branch -M master 
 
-git push -u origin master
+git push -u origin master #if this didnt work
+
+git push --set-upstream origin main #try this
+
+finally put id and pass (use token compulsary for id and pass)
 
 
-y
+
 
 
 
