@@ -40,8 +40,9 @@ git push --set-upstream origin main #try this
 while pushing it can show some login error and permission denied which is because of the login of a previous person and it the login details of that person is saved in a keychain somewhere , so if this happens you have to deleet that saved login infirmation of that person
 
 finally put id and pass (use token compulsary for id and pass)
+ ##token of pratikc191098
 
-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 ##token of pratikc191098
+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#####git 2nd token 1 10 2021
 
 #youtube video link for reference 
 https://youtu.be/uaeKhfhYE0U
